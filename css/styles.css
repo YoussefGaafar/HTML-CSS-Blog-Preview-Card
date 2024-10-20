@@ -83,6 +83,7 @@ body {
 
 .container .text p {
     color: #6b7280;
+    line-height: 1.4;
 }
 
 .container .profile {
